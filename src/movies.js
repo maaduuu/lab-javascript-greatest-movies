@@ -76,7 +76,7 @@ const orderAlphabetically = (moviesArray) => {
     return aplhabeticOrder.splice(0, 20);
 }
 
-console.log(orderAlphabetically(movies));
+// console.log(orderAlphabetically(movies));
 
 
 // BONUS - Iteration 7: Time Format - Turn duration of the movies from hours to minutes
